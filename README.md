@@ -1,18 +1,6 @@
 # Arboretum
 Intelliegent organic application engine
-Okay, let's craft a comprehensive example of extending the Fusion IDE with a new feature, demonstrating how to add functionality at all levels of the application. This will serve as a guide for LLMs to generate compliant functionality, while also explaining how the entire system works.
 
-Feature Goal:
-
-We'll implement a "Code Comment Analyzer" feature. This will:
-
-Accept Code Selection: Allow the user to select a portion of code in the editor.
-
-Send to Cognitorium: Send the selected code to the Cognitorium's KRR module.
-
-Analyze Comments: The KRR module will analyze comments for sentiment and provide recommendations for better commenting practices.
-
-Display Results: The analysis results will be displayed in a dedicated panel.
 
 Extension at Each Level:
 
